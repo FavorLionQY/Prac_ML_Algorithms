@@ -1,3 +1,12 @@
+""" a linear regression model practice with two weights and one bias
+set some strange noise and sample distribution to try to find more.
+But when the learning rate is larger than 0.0002, gradient explose,
+learning failed.
+Just ignore the first and most basic model.
+Then try to find more about tensorflow in my following codes."""
+
+
+
 import tensorflow as tf
 
 
